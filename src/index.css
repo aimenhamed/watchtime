@@ -2,9 +2,16 @@ body {
   margin: 0;
   background-color: #22254b;
   color: white;
+  display: flex;
+  flex-direction: column;
   font-family: "Arial";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.root {
+  display: flex;
+  flex-direction: column;
 }
 
 * {
