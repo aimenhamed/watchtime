@@ -27,15 +27,21 @@ export const MovieCard = styled.div`
 
 export const MovieOverview = styled.div`
     position: absolute;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    box-shadow: 0 -1px 8px rgba(0,0,0.1);
     bottom: 0;
     left: 0;
     right: 0;
     background-color: white;
     color: #22254b;
     padding: 1rem;
-    transform: translateX(100%);
+    overflow: auto;
+    max-height: 100%;
+    transform: translateY(102%);
+    transition: transform 0.3s ease-in-out;
 
     ${MovieInfo}:hover & {
-        transform: translateX(0%);
+        transform: translateY(0%);
     }
 `;
