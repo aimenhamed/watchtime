@@ -16,8 +16,12 @@ export const Search = styled.input`
     background-color: transparent;
     border: 2px solid #22254b;
     border-radius: 50px;
-    color: #22254b;
+    color: white;
     font-family: inherit;
     font-size: 1.2rem;
     padding: 0.5rem 1.5rem;
+
+    :focus {
+        outline: 0;
+    }
 `;
