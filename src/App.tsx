@@ -9,21 +9,22 @@ function App() {
   const [ movies, setMovies ] = useState([]);
   const [ searchTerm, setSearchTerm ] = useState("");
   useEffect(() => {
-    fetch(featuredAPI)
+    getMovies(featuredAPI);
+  }, []);
+
+  const getMovies = (API: string) => {
+    fetch(API)
     .then(res => res.json())
     .then(data => {
       setMovies(data.results);
-    });
-  }, [])
+    }); 
+  }
+
   const handleOnSubmit = (e: any) => {
     e.preventDefault();
     
     if(searchTerm) {
-      fetch(searchAPI + searchTerm)
-      .then(res => res.json())
-      .then(data => {
-        setMovies(data.results);
-      }); 
+      getMovies(searchAPI + searchTerm);
       setSearchTerm('');
     }
   };

@@ -22,3 +22,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.tag {
+  background-color: #22254b;
+  padding: 0.5rem;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.tag.green {
+  color: rgb(0, 255, 0);
+}
+
+.tag.orange {
+  color: orange;
+}
+
+.tag.red {
+  color: red;
+}
