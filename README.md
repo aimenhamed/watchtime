@@ -1,4 +1,7 @@
-
+[![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)
+<img src="https://img.shields.io/badge/build-passing-success">
+<img src="https://img.shields.io/badge/lang-typescript-blue">
+<img src="https://img.shields.io/badge/framework-react-blue">
 # Watch Time
 
 ### Watch Time is a centralised movie library to search any movie and see it's ratings and overview.
