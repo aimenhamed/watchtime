@@ -5,7 +5,7 @@ import { MovieContainer, AppHeader, Search } from './App.styles'
 const featuredAPI = "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=9b7241114645ea91f4bd25edff549720&page=1";
 const searchAPI = "https://api.themoviedb.org/3/search/movie?&api_key=9b7241114645ea91f4bd25edff549720&query=";
 
-function App() {
+const App = () => {
   const [ movies, setMovies ] = useState([]);
   const [ searchTerm, setSearchTerm ] = useState("");
   useEffect(() => {
