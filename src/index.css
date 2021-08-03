@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: #22254b;
+  background-color: #252525;
   color: white;
   display: flex;
   flex-direction: column;
@@ -24,7 +24,7 @@ code {
 }
 
 .tag {
-  background-color: #22254b;
+  background-color: #252525;
   padding: 0.5rem;
   border-radius: 5px;
   font-weight: bold;

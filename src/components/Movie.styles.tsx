@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const MovieInfo = styled.div`
     width: 300px;
     margin: 1rem;
-    background-color: #373b69;
+    background-color: #5a5a5a;
     border-radius: 3px;
     box-shadow: 3px 3px 5px rgba(0,0,0,0.1);
     overflow: hidden;
@@ -34,7 +34,7 @@ export const MovieOverview = styled.div`
     left: 0;
     right: 0;
     background-color: white;
-    color: #22254b;
+    color: #000000;
     padding: 1rem;
     overflow: auto;
     max-height: 100%;

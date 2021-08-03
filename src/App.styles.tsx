@@ -7,7 +7,7 @@ export const MovieContainer = styled.div`
 `;
 
 export const AppHeader = styled.header`
-    background-color: #373b69;
+    background-color: #202020;
     padding: 1rem;
     display: flex;
     justify-content: flex-end;
@@ -15,7 +15,7 @@ export const AppHeader = styled.header`
 
 export const Search = styled.input`
     background-color: transparent;
-    border: 2px solid #22254b;
+    border: 2px solid #ffffff;
     border-radius: 50px;
     color: white;
     font-family: inherit;
