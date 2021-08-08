@@ -10,6 +10,8 @@
 
 <img width="1440" alt="Screen Shot 2021-08-08 at 6 15 13 pm" src="https://user-images.githubusercontent.com/66828989/128625688-ec63ba5b-cdb2-431e-b97c-2735d4f5dff5.png">
 
+<img width="1440" alt="Screen Shot 2021-08-08 at 6 16 49 pm" src="https://user-images.githubusercontent.com/66828989/128625733-5e300eb5-09ab-46cc-956d-b66b5caec207.png">
+
 This was written in TypeScript using React
  
 API is from [TheMovieDB](https://www.themoviedb.org/)
