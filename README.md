@@ -8,7 +8,7 @@
 
 <img width="1440" alt="Screen Shot 2021-08-08 at 6 13 59 pm" src="https://user-images.githubusercontent.com/66828989/128625662-dd30d0bc-81f9-415a-9057-eca1d9f13796.png">
 
-<img width="1440" alt="Screen Shot 2021-07-14 at 9 41 49 pm" src="https://user-images.githubusercontent.com/66828989/125616345-9bd1441e-e132-4ccb-89e7-fff78b445994.png">
+<img width="1440" alt="Screen Shot 2021-08-08 at 6 15 13 pm" src="https://user-images.githubusercontent.com/66828989/128625688-ec63ba5b-cdb2-431e-b97c-2735d4f5dff5.png">
 
 This was written in TypeScript using React
  
