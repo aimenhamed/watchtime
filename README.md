@@ -6,7 +6,7 @@
 
 ### Watch Time is a centralised movie library to search any movie and see it's ratings and overview.
 
-<img width="1440" alt="Screen Shot 2021-07-14 at 9 38 49 pm" src="https://user-images.githubusercontent.com/66828989/125615941-61504cc1-ade0-4381-8de1-6dbcd389453f.png">
+<img width="1440" alt="Screen Shot 2021-08-08 at 6 13 59 pm" src="https://user-images.githubusercontent.com/66828989/128625662-dd30d0bc-81f9-415a-9057-eca1d9f13796.png">
 
 <img width="1440" alt="Screen Shot 2021-07-14 at 9 41 49 pm" src="https://user-images.githubusercontent.com/66828989/125616345-9bd1441e-e132-4ccb-89e7-fff78b445994.png">
 
